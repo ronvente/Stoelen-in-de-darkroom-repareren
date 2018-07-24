@@ -3,3 +3,10 @@ Stoelen in de darkroom repareren
 Zitten de leuningen los?
   Nee->doe niets
   Ja->pak gereedschap foedraal
+    Heb ik een verstelbare sleutel in de foedraal?
+      Nee->haal een verstelbare sleutel in het magazijn
+      ja->start met repareren
+        Kan ik zo bij de moeren?
+          Ja->draai deze vast
+          Nee->verwijder de zitting van de stoel
+          
